@@ -29,9 +29,9 @@ The advice is available through the Committee Admin page, on the Guild website.
 
 ### CSS
 
-Where possible, the full logo should be used, and using the bold version of the logo where possible. They are available in this repository.
+In all cases, the full logo should be used. The bold variant should be preferred, where possible, but is not required. They are available in this repository.
 
 ## Fonts
 
-The font which is used in the Logos is [Inconsolata](https://fonts.google.com/specimen/Inconsolata). The logo uses the bold weighting of this font.
+The font to be used in the logos is the bold variant of [Inconsolata](https://fonts.google.com/specimen/Inconsolata). The non-bold version may be used only as a fallback, where the bold is not suitable or is unavailable.
 
