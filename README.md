@@ -1,17 +1,17 @@
-#  Computer Science Society - Brand Resource Guidelines
+#  Computer Science Society - Brand Guidelines
 
 This document is intended to serve as a guide to the use of the CSS logos.
 
 ## Colours
 
-|                   | Name      | Hex Code   | Red | Green | Blue | Use                                          |
-|-------------------|-----------|------------|-----|-------|------|----------------------------------------------|
-|![][col-dark-blue] | Dark Blue | `#2f3c63;` | 47  | 60    | 99   | Backgrounds                                  |
-|![][col-orange]    | Orange    | `#ff9c00;` | 255 | 156   | 0    | Logo Syntax Highlighting                     |    
-|![][col-light-blue]| Light Blue| `#58cad6;` | 88  | 202   | 214  | Logo Syntax Highlighting                     |            
-|![][col-white]     | White     | `#ffffff;` | 255 | 255   | 255  | Logo Syntax Highlighting                     |
-|![][col-green]     | Green     | `#03e421;` | 3   | 228   | 33   | Logo Syntax Highlighting                     |
-|![][col-yellow]    | Yellow    | `#fdff8a;` | 253 | 255   | 138  | Comment text when using Dark Blue Background |
+|                    | Name       | Hex Code   | Red | Green | Blue | Use                                          |
+|--------------------|------------|------------|-----|-------|------|----------------------------------------------|
+|![][col-dark-blue]  | Dark Blue  | `#2f3c63;` | 47  | 60    | 99   | Backgrounds                                  |
+|![][col-orange]     | Orange     | `#ff9c00;` | 255 | 156   | 0    | Logo Syntax Highlighting                     |    
+|![][col-light-blue] | Light Blue | `#58cad6;` | 88  | 202   | 214  | Logo Syntax Highlighting                     |            
+|![][col-white]      | White      | `#ffffff;` | 255 | 255   | 255  | Logo Syntax Highlighting                     |
+|![][col-green]      | Green      | `#03e421;` | 3   | 228   | 33   | Logo Syntax Highlighting                     |
+|![][col-yellow]     | Yellow     | `#fdff8a;` | 253 | 255   | 138  | Comment text when using Dark Blue Background |
 
 [col-dark-blue]: https://placehold.it/15/2f3c63/000000?text=+
 [col-orange]: https://placehold.it/15/ff9c00/000000?text=+
