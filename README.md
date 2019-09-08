@@ -33,5 +33,12 @@ In all cases, the full logo should be used. The bold variant should be preferred
 
 ## Fonts
 
-The font to be used in the logos is the bold variant of [Inconsolata](https://fonts.google.com/specimen/Inconsolata). The non-bold version may be used only as a fallback, where the bold is not suitable or is unavailable.
+For the purposes of recreating the logo:
 
+The font to be used in the logos is the bold variant of [Inconsolata](https://fonts.google.com/specimen/Inconsolata). The text should always be bold in the logo. 
+
+## Files
+
+The provided `svg`, `eps` and `png` files in this repository should always be used. Where possible the vecor formats should be preffered to maintain quality and ensure the images are rasterised the correct resolution.
+
+There is no need to recreate the logo, except as a last resort.
