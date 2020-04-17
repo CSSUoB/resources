@@ -4,7 +4,7 @@ This document is intended to serve as a guide to the use of the CSS logos.
 
 ## Colours
 
-|                    | Name       | Hex Code   | Red | Green | Blue | Use                                          |
+|                    | Name       | Hex Code   | Red | Green | Blue | Use on the Website                           |
 |--------------------|------------|------------|-----|-------|------|----------------------------------------------|
 |![][col-dark-blue]  | Dark Blue  | `#2f3c63;` | 47  | 60    | 99   | Backgrounds                                  |
 |![][col-orange]     | Orange     | `#ff9c00;` | 255 | 156   | 0    | Logo Syntax Highlighting                     |    
@@ -19,6 +19,8 @@ This document is intended to serve as a guide to the use of the CSS logos.
 [col-white]: https://placehold.it/15/ffffff/000000?text=+
 [col-green]: https://placehold.it/15/03e421/000000?text=+
 [col-yellow]: https://placehold.it/15/fdff8a/000000?text=+
+
+Other colous and styles can be used for promotional material. e.g. Canva designs. These do not necessarily need to follow the colour scheme of the logo.
 
 ## Logos
 
