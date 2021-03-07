@@ -41,6 +41,6 @@ The font to be used in the logos is the bold variant of [Inconsolata](https://fo
 
 ## Files
 
-The provided `svg`, `eps` and `png` files in this repository should always be used. Where possible the vecor formats should be preffered to maintain quality and ensure the images are rasterised the correct resolution.
+The provided `svg`, `eps` and `png` files in this repository should always be used. Where possible the vector formats should be preferred to maintain quality and ensure the images are rasterised to the correct resolution.
 
 There is no need to recreate the logo, except as a last resort.
