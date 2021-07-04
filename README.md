@@ -44,3 +44,12 @@ The font to be used in the logos is the bold variant of [Inconsolata](https://fo
 The provided `svg`, `eps` and `png` files in this repository should always be used. Where possible the vector formats should be preferred to maintain quality and ensure the images are rasterised to the correct resolution.
 
 There is no need to recreate the logo, except as a last resort.
+
+## Roller Banner
+
+The two roller banners were printed in 2019 via [https://digitalprinting.co.uk](digitalprinting.co.uk) and were the _'Gold' Roll Up Stands_, using the files in [`roller-banner/`](roller-banner), following the [https://www.digitalprinting.co.uk/media/hints/76/gold-roll-up-stand-1.pdf](design tips) provided by the printing company.
+
+| File | File Type | Notes |
+| [roller-banner/banner_source.ai](banner_source.ai) | Adobe Illustrator | Original working document with elements as text. Requires above [#Fonts](fonts) to be installed. |
+| [roller-banner/banner_converted.ai](banner_converted.ai) | Adobe Illustrator | Fonts converted to outlines, white text not set to overprint. Ready to export as 'Print Ready PDF' |
+| [roller-banner/banner_print_ready.pdf](banner_print_ready.pdf) | PDF | Conforms to [https://www.digitalprinting.co.uk/support/what-is-print-ready-pdf/](Digital Printing's Print Ready PDF) requirements. Includes bleeds.
