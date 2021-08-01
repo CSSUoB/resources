@@ -13,12 +13,12 @@ This document is intended to serve as a guide to the use of the CSS logos.
 |![][col-green]      | Green      | `#03e421;` | 3   | 228   | 33   | Logo Syntax Highlighting                     |
 |![][col-yellow]     | Yellow     | `#fdff8a;` | 253 | 255   | 138  | Comment text when using Dark Blue Background |
 
-[col-dark-blue]: https://placehold.it/15/2f3c63/000000?text=+
-[col-orange]: https://placehold.it/15/ff9c00/000000?text=+
-[col-light-blue]: https://placehold.it/15/58cad6/000000?text=+
-[col-white]: https://placehold.it/15/ffffff/000000?text=+
-[col-green]: https://placehold.it/15/03e421/000000?text=+
-[col-yellow]: https://placehold.it/15/fdff8a/000000?text=+
+[col-dark-blue]: https://via.placeholder.com/15/2f3c63/000000?text=+
+[col-orange]: https://via.placeholder.com/15/ff9c00/000000?text=+
+[col-light-blue]: https://via.placeholder.com/15/58cad6/000000?text=+
+[col-white]: https://via.placeholder.com/15/ffffff/000000?text=+
+[col-green]: https://via.placeholder.com/15/03e421/000000?text=+
+[col-yellow]: https://via.placeholder.com/15/fdff8a/000000?text=+
 
 Other colous and styles can be used for promotional material. e.g. Canva designs. These do not necessarily need to follow the colour scheme of the logo.
 
