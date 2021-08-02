@@ -44,3 +44,33 @@ The font to be used in the logos is the bold variant of [Inconsolata](https://fo
 The provided `svg`, `eps` and `png` files in this repository should always be used. Where possible the vector formats should be preferred to maintain quality and ensure the images are rasterised to the correct resolution.
 
 There is no need to recreate the logo, except as a last resort.
+
+## Stickers
+
+Stickers are purchased on [stickermule.com](https://stickermule.com), and are Die Cut stickers. If full bleed is needed, it needs to be requested in the instructions to StickerMule to create the proof.
+
+| Sticker Preview                   | Name           | File Name                                                                                                  | Size - w×h (mm) | Cutting    |
+|-----------------------------------|----------------|------------------------------------------------------------------------------------------------------------|-----------------|------------|
+| ![Mini Logo][mini-logo]           | Mini Logo      | [`stickers/mini-logo.png`][mini-logo]                                                                      | 50 x 30         | Full Bleed | 
+| ![Hex][hex]                       | Hex            | [`stickers/hex.png`][hex]                                                                                  | 43 x 50         | Full Bleed |
+| ![Original TeX][original-tex]     | Original TeX   | [`dinosaur/raster/tex_original.png`][original-tex] [`dinosaur/tex_original.svg`][original-tex-svg]         | 50 x 46         | Die Cut    |
+| ![Christmas TeX][christmas-tex]   | Christmas TeX  | [`dinosaur/raster/tex_christmas.png`][christmas-tex] [`dinosaur/tex_christmas.svg`][christmas-tex-svg]     | 50 x 46         | Die Cut    |
+| ![Ball TeX][ball-tex]             | Ball TeX       | [`dinosaur/raster/tex_ball.png`][ball-tex] [`dinosaur/tex_ball.svg`][ball-tex-svg]                         | 50 x 46         | Die Cut    |
+| ![Pride TeX][pride-tex]           | Pride TeX      | [`dinosaur/raster/tex_pride.png`][pride-tex] [`dinosaur/tex_pride.svg`][pride-tex-svg]                     | 50 x 46         | Die Cut    |
+| ![BBQ TeX][bbq-tex]               | BBQ TeX        | [`dinosaur/raster/tex_bbq.png`][bbq-tex] [`dinosaur/tex_bbq.svg`][bbq-tex-svg]                             | 62 x 55         | Die Cut    |
+| ![Graduation TeX][graduation-tex] | Graduation TeX | [`dinosaur/raster/tex_graduation.png`][graduation-tex] [`dinosaur/tex_graduation.svg`][graduation-tex-svg] | 50 x 48         | Die Cut    |
+
+[mini-logo]: stickers/mini-logo.png
+[hex]: stickers/hex.png
+[original-tex]: dinosaur/raster/tex_original.png
+[christmas-tex]: dinosaur/raster/tex_christmas.png
+[ball-tex]: dinosaur/raster/tex_ball.png
+[pride-tex]: dinosaur/raster/tex_pride.png
+[bbq-tex]: dinosaur/raster/tex_bbq.png
+[graduation-tex]: dinosaur/raster/tex_graduation.png
+[original-tex-svg]: dinosaur/tex_original.svg
+[christmas-tex-svg]: dinosaur/tex_christmas.svg
+[ball-tex-svg]: dinosaur/tex_ball.svg
+[pride-tex-svg]: dinosaur/tex_pride.svg
+[bbq-tex-svg]: dinosaur/tex_bbq.svg
+[graduation-tex-svg]: dinosaur/tex_graduation.svg
