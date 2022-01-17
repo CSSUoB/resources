@@ -153,3 +153,11 @@ The two roller banners were printed in 2019 via [digitalprinting.co.uk](https://
 | [`banner_source.ai`](roller-banner/banner_source.ai) | Adobe Illustrator | Original working document with elements as text. Requires above [fonts](#fonts) to be installed. |
 | [`banner_converted.ai`](roller-banner/banner_converted.ai) | Adobe Illustrator | Fonts converted to outlines, white text not set to overprint. Ready to export as 'Print Ready PDF' |
 | [`banner_print_ready.pdf`](roller-banner/banner_print_ready.pdf) | PDF | Conforms to [Digital Printing's Print Ready PDF](https://www.digitalprinting.co.uk/support/what-is-print-ready-pdf/) requirements. Includes bleeds.
+
+## Minecraft
+
+There is a TeX Minecraft skin available at [`dinosaur/minecraft/tex_minecraft_skin.png`](dinosaur/minecraft/tex_minecraft_skin.png).
+
+It looks like this. 
+
+![](dinosaur/minecraft/visualisations/side-view.png)
