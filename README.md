@@ -6,14 +6,14 @@ This document is intended to serve as a guide to the use of the CSS logos.
 
 ### CSS Logo
 
-|                    | Name       | Hex Code   | Red | Green | Blue | Usage (in the logo and in publicity)                                     |
-|--------------------|------------|------------|-----|-------|------|--------------------------------------------------------------------------|
-|![][col-dark-blue]  | Dark Blue  | `#2f3c63;` | 47  | 60    | 99   | Logo Background                                                          |
-|![][col-orange]     | Orange     | `#ff9c00;` | 255 | 156   | 0    | Logo Syntax Highlighting (Identifier), <br/>5th Highlight                |    
-|![][col-light-blue] | Light Blue | `#58cad6;` | 88  | 202   | 214  | Logo Syntax Highlighting (Brackets and Braces), <br/>2nd Highlight       |            
-|![][col-white]      | White      | `#ffffff;` | 255 | 255   | 255  | Logo Syntax Highlighting (Parentheses and Plus), <br/> Text on dark      |
-|![][col-green]      | Green      | `#03e421;` | 3   | 228   | 33   | Logo Syntax Highlighting (Numbers), <br/>3rd Highlight                   |
-|![][col-yellow]     | Yellow     | `#fdff8a;` | 253 | 255   | 138  | Comment text when using Dark Blue Background, <br/>4th Highlight         |
+|                    | Name       | Hex Code   | Red | Green | Blue | Logo and Website                                     | Publicity     | Discord          |
+|--------------------|------------|------------|-----|-------|------|------------------------------------------------------|---------------|------------------|
+|![][col-dark-blue]  | Dark Blue  | `#2f3c63;` | 47  | 60    | 99   | Logo Background                                      |               |                  |
+|![][col-orange]     | Orange     | `#ff9c00;` | 255 | 156   | 0    | Logo Syntax Highlighting <br/>(Identifier)           | 5th Highlight | Pronoun Roles    |
+|![][col-light-blue] | Light Blue | `#58cad6;` | 88  | 202   | 214  | Logo Syntax Highlighting <br/>(Brackets and Braces)  | 2nd Highlight | Committee Role   |     
+|![][col-white]      | White      | `#ffffff;` | 255 | 255   | 255  | Logo Syntax Highlighting <br/>(Parentheses and Plus) | Text on dark  |                  |
+|![][col-green]      | Green      | `#03e421;` | 3   | 228   | 33   | Logo Syntax Highlighting <br/>(Numbers)              | 3rd Highlight | Member Role      |
+|![][col-yellow]     | Yellow     | `#fdff8a;` | 253 | 255   | 138  | Comment text when using Dark Blue Background         | 4th Highlight | Bot Roles        |
 
 [col-dark-blue]: https://via.placeholder.com/15/2f3c63/000000?text=+
 [col-orange]: https://via.placeholder.com/15/ff9c00/000000?text=+
@@ -57,15 +57,17 @@ Other colous and styles can be used for promotional material. e.g. Canva designs
 
 |                    | Name       | Hex Code   | Red | Green | Blue | Usage                                        |
 |--------------------|------------|------------|-----|-------|------|----------------------------------------------|
-|![][col-light-grey] | Light Grey | `#d9d9d9;` | 217 | 217   | 217  | Subtling on colour                         
-|![][col-grey]       | Grey       | `#a6a6a6;` | 166 | 166   | 166  | Subtling on dark
-|![][col-dark-grey]  | Dark Grey  | `#595959;` | 89  | 89    | 89   | Subtling on light
-|![][col-black]      | Black      | `#000000;` | 0   | 0     | 0    | Text on light
+|![][col-light-grey] | Light Grey | `#d9d9d9;` | 217 | 217   | 217  | Publicity: Subtling on colour                |   
+|![][col-grey]       | Grey       | `#a6a6a6;` | 166 | 166   | 166  | Subtling on dark                             |
+|![][col-dark-grey]  | Dark Grey  | `#595959;` | 89  | 89    | 89   | Subtling on light                            | 
+|![][col-black]      | Black      | `#000000;` | 0   | 0     | 0    | Text on light                                |
+|![][col-blue-grey]  | Blue-Grey  | `#3b8b94;` | 59  | 139   | 148  | Discord: Committee-Elect Role                |
 
 [col-light-grey]: https://via.placeholder.com/15/d9d9d9/000000?text=+
 [col-grey]: https://via.placeholder.com/15/a6a6a6/000000?text=+
 [col-dark-grey]: https://via.placeholder.com/15/595959/000000?text=+
 [col-black]: https://via.placeholder.com/15/000000/000000?text=+
+[col-blue-grey]: https://via.placeholder.com/15/3b8b94/000000?text=+
 
 ## Logos
 
