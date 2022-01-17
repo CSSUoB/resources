@@ -59,6 +59,11 @@ Stickers are purchased on [stickermule.com](https://stickermule.com), and are Di
 | ![Pride TeX][pride-tex]           | Pride TeX      | [`dinosaur/raster/tex_pride.png`][pride-tex] [`dinosaur/tex_pride.svg`][pride-tex-svg]                     | 50 x 46         | Die Cut    |
 | ![BBQ TeX][bbq-tex]               | BBQ TeX        | [`dinosaur/raster/tex_bbq.png`][bbq-tex] [`dinosaur/tex_bbq.svg`][bbq-tex-svg]                             | 62 x 55         | Die Cut    |
 | ![Graduation TeX][graduation-tex] | Graduation TeX | [`dinosaur/raster/tex_graduation.png`][graduation-tex] [`dinosaur/tex_graduation.svg`][graduation-tex-svg] | 50 x 48         | Die Cut    |
+| ![Old Joe TeX][old-joe-tex]       | Old Joe TeX    | [`dinosaur/raster/tex_old-joe.png`][old-joe-tex] [`dinosaur/tex_old-joe.svg`][old-joe-tex-svg]             | 50 x 71         | Die Cut    |
+| ![Megaphone TeX][megaphone-tex]   | Megaphone TeX  | [`dinosaur/raster/tex_megaphone.png`][megaphone-tex] [`dinosaur/tex_megaphone.svg`][megaphone-tex-svg]     | 61 x 46         | Die Cut    |
+| ![Halloween TeX][halloween-tex]   | Halloween TeX  | [`dinosaur/raster/tex_halloween.png`][halloween-tex] [`dinosaur/tex_halloweeen.svg`][halloween-tex-svg]    | 50 x 46         | Die Cut    |
+
+N.B.: The die-cut dimensions include the white border around the graphic. So the actual TeX image will be smaller. 
 
 [mini-logo]: stickers/mini-logo.png
 [hex]: stickers/hex.png
@@ -68,12 +73,19 @@ Stickers are purchased on [stickermule.com](https://stickermule.com), and are Di
 [pride-tex]: dinosaur/raster/tex_pride.png
 [bbq-tex]: dinosaur/raster/tex_bbq.png
 [graduation-tex]: dinosaur/raster/tex_graduation.png
+[old-joe-tex]: dinosaur/raster/tex_old-joe.png
+[megaphone-tex]: dinosaur/raster/tex_megaphone.png
+[halloween-tex]: dinosaur/raster/tex_halloween.png
+
 [original-tex-svg]: dinosaur/tex_original.svg
 [christmas-tex-svg]: dinosaur/tex_christmas.svg
 [ball-tex-svg]: dinosaur/tex_ball.svg
 [pride-tex-svg]: dinosaur/tex_pride.svg
 [bbq-tex-svg]: dinosaur/tex_bbq.svg
 [graduation-tex-svg]: dinosaur/tex_graduation.svg
+[old-joe-tex-svg]: dinosaur/tex_old-joe.svg
+[megaphone-tex-svg]: dinosaur/tex_megaphone.svg
+[halloween-tex-svg]: dinosaur/tex_halloween.svg
 
 ## Roller Banner
 
