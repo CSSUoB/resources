@@ -1,4 +1,4 @@
-#  Computer Science Society - Brand Guidelines
+#  [Computer Science Society - Brand Guidelines](https://github.com/CSSUoB/resources)
 
 This document is intended to serve as a guide to the use of the CSS logos.
 
