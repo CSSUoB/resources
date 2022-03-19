@@ -25,6 +25,7 @@ This document is intended to serve as a guide to the use of the CSS logos.
 Other colous and styles can be used for promotional material. e.g. Canva designs. These do not necessarily need to follow the colour scheme of the logo:
 
 ### TeX Colours
+
 |                              | Name                 | Hex Code   | Red | Green | Blue | Usage                                        |
 |------------------------------|----------------------|------------|-----|-------|------|----------------------------------------------|
 |![][col-purple]               | TeX / Purple         | `#9d68dc;` | 157 | 104   | 220  | 1st Highlight                                |
@@ -119,6 +120,8 @@ Stickers are purchased on [stickermule.com](https://stickermule.com), and are Di
 | ![Old Joe TeX][old-joe-tex]       | Old Joe TeX    | [`dinosaur/raster/tex_old-joe.png`][old-joe-tex] [`dinosaur/tex_old-joe.svg`][old-joe-tex-svg]             | 50 x 71         | Die Cut    |
 | ![Megaphone TeX][megaphone-tex]   | Megaphone TeX  | [`dinosaur/raster/tex_megaphone.png`][megaphone-tex] [`dinosaur/tex_megaphone.svg`][megaphone-tex-svg]     | 61 x 46         | Die Cut    |
 | ![Halloween TeX][halloween-tex]   | Halloween TeX  | [`dinosaur/raster/tex_halloween.png`][halloween-tex] [`dinosaur/tex_halloweeen.svg`][halloween-tex-svg]    | 50 x 46         | Die Cut    |
+| ![Speech TeX][speech-tex]         | Speech TeX     | [`dinosaur/raster/tex_speech.png][speech-tex] [`dinosaur/tex_speech.svg][speech-tex-svg]                   | 52 x 50         | Die Cut    |
+| ![Ballot TeX][ballot-tex]         | Ballot TeX     | [`dinosaur/raster/tex_ballot.png][ballot-tex] [`dinosaur/tex_ballot.svg][ballot-tex-svg]                   | 51 x 46         | Die Cut    |
 
 N.B.: The die-cut dimensions include the white border around the graphic. So the actual TeX image will be smaller. 
 
@@ -133,6 +136,8 @@ N.B.: The die-cut dimensions include the white border around the graphic. So the
 [old-joe-tex]: dinosaur/raster/tex_old-joe.png
 [megaphone-tex]: dinosaur/raster/tex_megaphone.png
 [halloween-tex]: dinosaur/raster/tex_halloween.png
+[speech-tex]: dinosaur/raster/tex_speech.png
+[ballot-tex]: dinosaur/raster/tex_ballot.png
 
 [original-tex-svg]: dinosaur/tex_original.svg
 [christmas-tex-svg]: dinosaur/tex_christmas.svg
@@ -143,6 +148,8 @@ N.B.: The die-cut dimensions include the white border around the graphic. So the
 [old-joe-tex-svg]: dinosaur/tex_old-joe.svg
 [megaphone-tex-svg]: dinosaur/tex_megaphone.svg
 [halloween-tex-svg]: dinosaur/tex_halloween.svg
+[speech-tex-svg]: dinosaur/tex_speech.svg
+[ballot-tex-svg]: dinosaur/tex_ballot.svg
 
 ## Roller Banner
 
