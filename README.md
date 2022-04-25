@@ -120,8 +120,8 @@ Stickers are purchased on [stickermule.com](https://stickermule.com), and are Di
 | ![Old Joe TeX][old-joe-tex]       | Old Joe TeX    | [`dinosaur/raster/tex_old-joe.png`][old-joe-tex] [`dinosaur/tex_old-joe.svg`][old-joe-tex-svg]             | 50 x 71         | Die Cut    |
 | ![Megaphone TeX][megaphone-tex]   | Megaphone TeX  | [`dinosaur/raster/tex_megaphone.png`][megaphone-tex] [`dinosaur/tex_megaphone.svg`][megaphone-tex-svg]     | 61 x 46         | Die Cut    |
 | ![Halloween TeX][halloween-tex]   | Halloween TeX  | [`dinosaur/raster/tex_halloween.png`][halloween-tex] [`dinosaur/tex_halloweeen.svg`][halloween-tex-svg]    | 50 x 46         | Die Cut    |
-| ![Speech TeX][speech-tex]         | Speech TeX     | [`dinosaur/raster/tex_speech.png][speech-tex] [`dinosaur/tex_speech.svg][speech-tex-svg]                   | 52 x 50         | Die Cut    |
-| ![Ballot TeX][ballot-tex]         | Ballot TeX     | [`dinosaur/raster/tex_ballot.png][ballot-tex] [`dinosaur/tex_ballot.svg][ballot-tex-svg]                   | 51 x 46         | Die Cut    |
+| ![Speech TeX][speech-tex]         | Speech TeX     | [`dinosaur/raster/tex_speech.png`][speech-tex] [`dinosaur/tex_speech.svg`][speech-tex-svg]                   | 52 x 50         | Die Cut    |
+| ![Ballot TeX][ballot-tex]         | Ballot TeX     | [`dinosaur/raster/tex_ballot.png`][ballot-tex] [`dinosaur/tex_ballot.svg`][ballot-tex-svg]                   | 51 x 46         | Die Cut    |
 
 N.B.: The die-cut dimensions include the white border around the graphic. So the actual TeX image will be smaller. 
 
