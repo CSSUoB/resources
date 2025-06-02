@@ -153,7 +153,7 @@ N.B.: The die-cut dimensions include the white border around the graphic. So the
 
 ## birmingHack
 
-See [birminghack/README.md].
+See [birminghack/README.md](birminghack/README.md).
 
 ## Roller Banner
 
