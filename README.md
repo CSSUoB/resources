@@ -151,6 +151,10 @@ N.B.: The die-cut dimensions include the white border around the graphic. So the
 [speech-tex-svg]: dinosaur/tex_speech.svg
 [ballot-tex-svg]: dinosaur/tex_ballot.svg
 
+## birmingHack
+
+See [birminghack/README.md].
+
 ## Roller Banner
 
 The two roller banners were printed in 2019 via [digitalprinting.co.uk](https://digitalprinting.co.uk) and were the _'Gold' Roll Up Stands_, using the files in [`roller-banner/`](roller-banner), following the [design tips](https://www.digitalprinting.co.uk/media/hints/76/gold-roll-up-stand-1.pdf) provided by the printing company.
