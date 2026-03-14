@@ -111,6 +111,7 @@ Stickers are purchased on [stickermule.com](https://stickermule.com), and are Di
 |-----------------|------|-----------|-----------------|---------|
 | ![Mini Logo][mini-logo] | Mini Logo | [`stickers/mini-logo.png`][mini-logo] | 50 x 30 | Full Bleed | 
 | ![Hex][hex] | Hex | [`stickers/hex.png`][hex] | 43 x 50 | Full Bleed |
+| ![Hacker TeX][hacker-tex] | Hacker TeX | [`dinosaur/raster/tex_hacker.png`][hacker-tex] [`dinosaur/tex_hacker.svg`][hacker-tex-svg] | 44 x 51 | Full Bleed |
 | ![Original TeX][original-tex] | Original TeX | [`dinosaur/raster/tex_original.png`][original-tex] [`dinosaur/tex_original.svg`][original-tex-svg] | 50 x 46 | Die Cut |
 | ![Christmas TeX][christmas-tex] | Christmas TeX | [`dinosaur/raster/tex_christmas.png`][christmas-tex] [`dinosaur/tex_christmas.svg`][christmas-tex-svg] | 50 x 46 | Die Cut |
 | ![Ball TeX][ball-tex] | Ball TeX | [`dinosaur/raster/tex_ball.png`][ball-tex] [`dinosaur/tex_ball.svg`][ball-tex-svg] | 50 x 46 | Die Cut |
@@ -122,7 +123,6 @@ Stickers are purchased on [stickermule.com](https://stickermule.com), and are Di
 | ![Halloween TeX][halloween-tex] | Halloween TeX | [`dinosaur/raster/tex_halloween.png`][halloween-tex] [`dinosaur/tex_halloweeen.svg`][halloween-tex-svg] | 50 x 46 | Die Cut |
 | ![Speech TeX][speech-tex] | Speech TeX | [`dinosaur/raster/tex_speech.png`][speech-tex] [`dinosaur/tex_speech.svg`][speech-tex-svg] | 52 x 50 | Die Cut |
 | ![Ballot TeX][ballot-tex] | Ballot TeX | [`dinosaur/raster/tex_ballot.png`][ballot-tex] [`dinosaur/tex_ballot.svg`][ballot-tex-svg] | 51 x 46 | Die Cut |
-| ![Hacker TeX][hacker-tex] | Hacker TeX | [`dinosaur/raster/tex_hacker.png`][hacker-tex] [`dinosaur/tex_hacker.svg`][hacker-tex-svg] | 44 x 51 | Die Cut |
 
 N.B.: The die-cut dimensions include the white border around the graphic. So the actual TeX image will be smaller. 
 
