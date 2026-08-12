@@ -15,12 +15,12 @@ This document is intended to serve as a guide to the use of the CSS logos.
 |![][col-green] | Green | `#03e421;` | 3 | 228 | 33 | Logo Syntax Highlighting <br/>(Numbers) | 3rd Highlight | Member Role |
 |![][col-yellow] | Yellow | `#fdff8a;` | 253 | 255 | 138 | Comment text when using Dark Blue Background | 4th Highlight | Bot Roles |
 
-[col-dark-blue]: https://via.placeholder.com/15/2f3c63/000000?text=+
-[col-orange]: https://via.placeholder.com/15/ff9c00/000000?text=+
-[col-light-blue]: https://via.placeholder.com/15/58cad6/000000?text=+
-[col-white]: https://via.placeholder.com/15/ffffff/000000?text=+
-[col-green]: https://via.placeholder.com/15/03e421/000000?text=+
-[col-yellow]: https://via.placeholder.com/15/fdff8a/000000?text=+
+[col-dark-blue]: swatches/2f3c63.svg
+[col-orange]: swatches/ff9c00.svg
+[col-light-blue]: swatches/58cad6.svg
+[col-white]: swatches/ffffff.svg
+[col-green]: swatches/03e421.svg
+[col-yellow]: swatches/fdff8a.svg
 
 Other colous and styles can be used for promotional material. e.g. Canva designs. These do not necessarily need to follow the colour scheme of the logo:
 
@@ -41,18 +41,18 @@ Other colous and styles can be used for promotional material. e.g. Canva designs
 |![][col-tex-outline] | TeX Outline | `#35234a;` | 53 | 35 | 74 | |
 |![][col-tex-blue-outline] | TeX Blue Outline | `#1d1b57;` | 29 | 27 | 87 | |
 
-[col-purple]: https://via.placeholder.com/15/9d68dc/000000?text=+
-[col-tex-shadow]: https://via.placeholder.com/15/793fd8/000000?text=+
-[col-tex-highlight]: https://via.placeholder.com/15/c3abdf/000000?text=+
-[col-tex-highlight-shadow]: https://via.placeholder.com/15/463185/000000?text=+
-[col-tex-lowlight]: https://via.placeholder.com/15/6f5193/000000?text=+
-[col-tex-lowlight-shadow]: https://via.placeholder.com/15/463185/000000?text=+
-[col-tex-blue]: https://via.placeholder.com/15/3b37b6/000000?text=+
-[col-tex-blue-shadow]: https://via.placeholder.com/15/2521ad/000000?text=+
-[col-tex-detail]: https://via.placeholder.com/15/77bbfe/000000?text=+
-[col-tex-detail-shadow]: https://via.placeholder.com/15/4a9efe/000000?text=+
-[col-tex-outline]: https://via.placeholder.com/15/35234a/000000?text=+
-[col-tex-blue-outline]: https://via.placeholder.com/15/1d1b57/000000?text=+
+[col-purple]: swatches/9d68dc.svg
+[col-tex-shadow]: swatches/793fd8.svg
+[col-tex-highlight]: swatches/c3abdf.svg
+[col-tex-highlight-shadow]: swatches/ad8adb.svg
+[col-tex-lowlight]: swatches/6f5193.svg
+[col-tex-lowlight-shadow]: swatches/463185.svg
+[col-tex-blue]: swatches/3b37b6.svg
+[col-tex-blue-shadow]: swatches/2521ad.svg
+[col-tex-detail]: swatches/77bbfe.svg
+[col-tex-detail-shadow]: swatches/4a9efe.svg
+[col-tex-outline]: swatches/35234a.svg
+[col-tex-blue-outline]: swatches/1d1b57.svg
 
 ### Additional Colours
 
@@ -64,11 +64,11 @@ Other colous and styles can be used for promotional material. e.g. Canva designs
 |![][col-black] | Black | `#000000;` | 0 | 0 | 0 | Text on light |
 |![][col-blue-grey] | Blue-Grey | `#3b8b94;` | 59 | 139 | 148 | Discord: Committee-Elect Role |
 
-[col-light-grey]: https://via.placeholder.com/15/d9d9d9/000000?text=+
-[col-grey]: https://via.placeholder.com/15/a6a6a6/000000?text=+
-[col-dark-grey]: https://via.placeholder.com/15/595959/000000?text=+
-[col-black]: https://via.placeholder.com/15/000000/000000?text=+
-[col-blue-grey]: https://via.placeholder.com/15/3b8b94/000000?text=+
+[col-light-grey]: swatches/d9d9d9.svg
+[col-grey]: swatches/a6a6a6.svg
+[col-dark-grey]: swatches/595959.svg
+[col-black]: swatches/000000.svg
+[col-blue-grey]: swatches/3b8b94.svg
 
 ## Logos
 
